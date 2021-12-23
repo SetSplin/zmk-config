@@ -24,8 +24,8 @@
                         bindings = <
     &kp ESC       &trans          &trans          &kp PG_UP       &trans          &kp LPAR          &kp RPAR    &trans      &kp UP    &trans       &trans    &kp BSPC
     &kp TAB       &trans          &kp HOME        &kp PG_DN       &kp END         &kp LBRC          &kp RBRC    &kp LFT     &kp DWN   &kp RGT      &trans    &kp BSLH
-    &kp LSHIFT    &trans          &trans          &trans          &trans          &kp LBKT          &kp RBKT    &trans      &trans    &trans       &trans    &kp LGUI
-                          	                      &kp LCTRL       &trans          &kp SPACE         &kp RET     &trans      &kp RALT
+   &kp LSHFT  &trans       &trans       &trans       &trans       &trans         &trans   &trans   &trans &trans    &trans &trans
+                          	        &kp LGUI     &trans       &kp SPACE      &kp RET  &trans   &kp RALT
                         >;
                 };
 
